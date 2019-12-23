@@ -2,14 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-import {Eien,Napp} from './Napp';
+import {Eien} from './Napp';
 
 
 class Game extends React.Component{
 	
 	render(){
 		return(
-			<div><Napp/></div>
+			<div><Eien/></div>
 		);
 	}
 }
