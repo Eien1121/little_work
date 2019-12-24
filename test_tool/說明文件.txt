@@ -2,3 +2,5 @@
 使用function class配合hook useState使用屬性的功能
 單元測試使用jest對該component做紙渲染一次的測試
 RWD方面 如果螢幕寬度過低 time pick 會自適下移
+
+在build資料夾裡有發布版可觀看
